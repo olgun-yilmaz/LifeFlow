@@ -1,5 +1,4 @@
 **/__pycache__/
 .idea/
 
-data_extractor/config.py
-data_extractor/resources
+UserData/
